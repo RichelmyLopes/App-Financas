@@ -1,3 +1,3 @@
 # App-Financas
 
-# Aplicativo construído em React-Native.
+-Aplicativo construído em React-Native.
